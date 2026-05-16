@@ -68,7 +68,7 @@ app.post('/api/send-email', async (req, res) => {
     const emailBody = `
 Hello,
 
-My name is Blaise Yuo-B and my registration number is ${REG_NO}.
+My name is NZISABIRA Jean Nepomuscene and my registration number is ${REG_NO}.
 
 I am a student taking the course "Web Services and Service-Oriented Architecture".
 I am passionate about software development and eager to apply what I learn in class to real-world projects.
@@ -89,7 +89,7 @@ divided into independent, reusable services that communicate through well-define
 scalability, maintainability, and separation of concerns in software development.
 
 Best regards,
-Blaise Yuo-B
+NZISABIRA Jean Nepomuscene
 ${REG_NO}
     `.trim();
 

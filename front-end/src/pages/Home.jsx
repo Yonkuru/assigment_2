@@ -31,7 +31,7 @@ export default function Home() {
       <div style={s.card}>
         <h1 style={s.h1}>Home Page</h1>
         <div style={s.infoRow}>
-          <span style={s.label}>Full Name:</span> Blaise Yuo-B
+          <span style={s.label}>Full Name:</span> NZISABIRA Jean Nepomuscene
         </div>
         <div style={s.infoRow}>
           <span style={s.label}>Registration Number:</span> M02544_2023
